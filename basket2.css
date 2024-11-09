@@ -1,0 +1,47 @@
+h2 {
+  border: 3px solid ;
+  border-radius: 3px;
+  display: inline-block;
+  margin-top: 55px;
+} 
+footer {
+  background-image: linear-gradient(orange, black);
+  display: block;
+  height: 110px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+ 
+}
+footer p {
+  color: white;
+}
+header {
+  background-color: orange;
+}
+body {
+  background-color: orange;
+}
+a {
+  text-decoration: none;
+  color: black;
+  float: left;
+}
+li {
+  border: 5px dotted black;
+  border-radius: 5%;
+  width: 280px;
+  padding: 5px;
+  margin: 80px;
+  display: inline-block;
+}
+ul li:hover {
+  box-shadow: 0 0 5px 5px #000000;
+}
+.1 {
+  display: flex;
+  justify-content: center;
+}
+ul li:visited {
+  background: darkorange;
+}
