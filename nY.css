@@ -1,0 +1,22 @@
+footer {
+  background: linear-gradient(white,#004524);
+}
+.one {
+  wight: 60px;
+  height: 60px;
+}
+.two {
+  color: #1CA9C9;
+}
+.tree {
+  border: 5px dashed #000429;
+  display:inline-block;
+}
+.four {
+  wight: 30px;
+  height: 30px;
+}
+.six {
+  border: 5px dashed #000429;
+  display:inline-block;
+}
