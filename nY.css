@@ -1,5 +1,5 @@
 footer {
-  background: linear-gradient(white,#004524);
+  background: linear-gradient(white,darkgreen);
 }
 .one {
   wight: 60px;
@@ -17,6 +17,6 @@ footer {
   height: 30px;
 }
 .six {
-  border: 5px dashed #000429;
+  border: 5px dashed darkblue;
   display:inline-block;
 }
